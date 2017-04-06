@@ -1,7 +1,7 @@
 ---
 applications:
-- name: kimmok-insurance-bot
-  host: kimmok-insurance-bot
+- name: kimmok-insurance-bot2
+  host: kimmok-insurance-bot2
   memory: 256M
   services:
   - insurance-bot-conversation
